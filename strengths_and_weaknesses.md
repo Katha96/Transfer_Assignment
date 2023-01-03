@@ -2,3 +2,4 @@
 1. very hard to lose files
 2. reproducibility
 # Weaknesses
+1. history takes up file space
